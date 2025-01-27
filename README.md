@@ -77,7 +77,7 @@ The website is fully responsive, ensuring usability on both desktop and mobile d
 ---
 
 ## How to Run the Application
-
+(Just run file start.bat)
 1. **Using XAMPP:**
    - Start Apache and MySQL modules in XAMPP.
 
