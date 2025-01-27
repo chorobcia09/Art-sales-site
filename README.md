@@ -77,22 +77,7 @@ The website is fully responsive, ensuring usability on both desktop and mobile d
 ---
 
 ## How to Run the Application
-(Just run file start.bat)
-1. **Using XAMPP:**
-   - Start Apache and MySQL modules in XAMPP.
-
-2. **Setting Up the Project:**
-   - Open the project folder in **Visual Studio Code**.
-   - Open a new terminal and run:
-     ```bash
-     php artisan serve
-     ```
-   - Run database migrations and seed the database:
-     ```bash
-     php artisan migrate
-     php artisan db:seed
-     ```
-   - Access the application in your browser at [http://127.0.0.1:8000](http://127.0.0.1:8000).
+Just run XAMPP and `start.bat`.
 
 ---
 
@@ -111,6 +96,3 @@ The application includes backend validation for forms like registration, adding 
 - **Artist Name:** Required, string format.
 
 ---
-
-## License
-This project is licensed under the MIT License.
