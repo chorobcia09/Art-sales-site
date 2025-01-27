@@ -39,7 +39,7 @@ This project is a web application for selling artworks. Its goal is to provide a
 ## Database Structure
 
 ### ERD Diagram
-(Include ERD diagram here if available)
+(![Alt text]([https://example.com/path/to/image.png](https://github.com/chorobcia09/Art-sales-site/blob/main/erd.png))
 
 ### Tables Description
 - **users:** Stores user information such as name, email, password, role, and profile picture.
